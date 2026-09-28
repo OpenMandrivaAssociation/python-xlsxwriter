@@ -16,3 +16,4 @@ A Python module for creating Excel XLSX files.
 
 %files
 %{py_sitedir}/*
+%{_bindir}/vba_extract.py
