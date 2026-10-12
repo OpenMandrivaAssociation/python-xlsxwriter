@@ -1,6 +1,6 @@
 Name:		python-xlsxwriter
 Version:	3.2.9
-Release:	1
+Release:	2
 Summary:	A Python module for creating Excel XLSX files
 License:	BSD-2-Clause
 Group:		Development/Python
